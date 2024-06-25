@@ -16,8 +16,7 @@
  ❤️‍🔥I’m currently learning **C, Python, HTML/CSS,...**
 
  📝I write about It & neuroscience on **medium**
-                ||
-                \/                   
+                                 
      https://medium.com/@imane4abas
 
  🤪 "Other information will be kept private."
