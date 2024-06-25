@@ -71,7 +71,7 @@
 
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-  <img height='64' style='border:0px;height:64px;' src='https://example.com/purple-kofi-button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+      <img height='64' style='border:0px;height:64px;' src='https://example.com/purple-kofi-button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 
 </div>
