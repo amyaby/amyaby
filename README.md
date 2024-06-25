@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🦄 My Contributions 🦄</h2>
   <br>
-  <img alt="unicorn eating my contributions" src="https://raw.githubusercontent.com/amyaby/amyaby/output/github-contribution-grid-unicorn.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amyaby/amyaby/output/github-contribution-grid-unicorn.svg" />
   
   <br/><br/><br/>
 </div>
