@@ -16,6 +16,8 @@
  ❤️‍🔥I’m currently learning **C, Python, HTML/CSS,...**
 
  📝I write about It & neuroscience on <a href="https://medium.com/@imane4abas" target="_blank">Medium</a>
+ 
+ 🎧You can listen to my podcast on spotify just tap "AFYOUN" <a href="https://spoti.fi/3SzRd99" target="_blank">AFYOUN PODCAST </a>
 
  🤪 "Other information will be kept private."
 
