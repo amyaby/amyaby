@@ -13,7 +13,7 @@
  
  🤫 I’m currently working on **some guay projects**
  
- ❤️‍🔥I’m currently learning **C,SQL, Python, HTML/CSS,...**
+ ❤️‍🔥I’m currently learning **java , C, SQL, Python, HTML/CSS,...**
 
  📝I write about It & neuroscience on <a href="https://medium.com/@imane4abas" target="_blank">Medium</a>
  
