@@ -50,7 +50,7 @@
   <h2>🦄 My Contributions 🦄</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amyaby/amyaby/output/github-contribution-grid-snake.svg" />
-   <blockquote style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; background: #f9f9f9; padding: 20px; border-left: 5px solid #ccc;">
+   <blockquote style="font-family: 'Georgia';">
   <p><strong>My dear,</strong></p>
   
   <p>In the midst of hate, I found there was, within me, an invincible love.</p>
