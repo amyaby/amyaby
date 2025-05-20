@@ -50,7 +50,7 @@
   <h2>🦄 My Contributions 🦄</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amyaby/amyaby/output/github-contribution-grid-snake.svg" />
-  
+  <h3> In the depth of winter, I finally learned that within me there lay an invincible summer. </h3>
   <br/><br/><br/>
 </div>
 
