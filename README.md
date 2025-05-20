@@ -57,7 +57,7 @@
   <p>In the midst of tears, I found there was, within me, an invincible smile.</p>
   <p>In the midst of chaos, I found there was, within me, an invincible calm.</p>
   <p>I realized, through it all, that…</p>
-  
+  <p><b>In the depth of winter, I finally learned that within me there lay an invincible summer.</p></b>
   <p>And that makes me happy. For it says that no matter how hard the world pushes against me,<br>
   within me, there’s something stronger – something better, pushing right back.</p>
   
