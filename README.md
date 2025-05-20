@@ -50,7 +50,22 @@
   <h2>🦄 My Contributions 🦄</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amyaby/amyaby/output/github-contribution-grid-snake.svg" />
-    ![Screenshot_20-5-2025_202441_wordsfortheyear com](https://github.com/user-attachments/assets/105f88bf-cc20-4a03-b1e3-3d4c08c81702)
+   <blockquote style="font-family: 'Georgia', serif; font-size: 1.1em; line-height: 1.6; background: #f9f9f9; padding: 20px; border-left: 5px solid #ccc;">
+  <p><strong>My dear,</strong></p>
+  
+  <p>In the midst of hate, I found there was, within me, an invincible love.</p>
+  <p>In the midst of tears, I found there was, within me, an invincible smile.</p>
+  <p>In the midst of chaos, I found there was, within me, an invincible calm.</p>
+  <p>I realized, through it all, that…</p>
+  
+  <p>And that makes me happy. For it says that no matter how hard the world pushes against me,<br>
+  within me, there’s something stronger – something better, pushing right back.</p>
+  
+  <p>Truly yours,<br>
+  <strong>Albert Camus</strong><br>
+  <em>The Stranger</em></p>
+</blockquote>
+
 
   <br/><br/><br/>
 </div>
