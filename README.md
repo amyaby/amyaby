@@ -50,22 +50,8 @@
   <h2>🦄 My Contributions 🦄</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amyaby/amyaby/output/github-contribution-grid-snake.svg" />
-  <h3> My dear,
+    ![Screenshot_20-5-2025_202441_wordsfortheyear com](https://github.com/user-attachments/assets/105f88bf-cc20-4a03-b1e3-3d4c08c81702)
 
-In the midst of hate, I found there was, within me, an invincible love.
-
-In the midst of tears, I found there was, within me, an invincible smile.
-
-In the midst of chaos, I found there was, within me, an invincible calm.
-
-I realized, through it all, that…
-
-<b>In the midst of winter, I found there was, within me, an invincible summer.</b>
-
-And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there’s something stronger – something better, pushing right back.
-
-Truly yours
-– Albert Camus, The Stranger </h3>
   <br/><br/><br/>
 </div>
 
