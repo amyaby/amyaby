@@ -13,6 +13,8 @@
 <div align="center">
  
  🤫 I’m currently working on **some guay projects**
+
+ 🤯 DevOps and neural networks enthusiast
  
  ❤️‍🔥I’m currently learning **java , C, SQL, Python, HTML/CSS,...**
 
