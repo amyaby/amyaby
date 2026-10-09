@@ -14,7 +14,7 @@
  
  🤫 I’m currently working on **some guay projects**
  
- ❤️‍🔥I’m currently learning **java , C, SQL, Python, HTML/CSS,...**
+ ❤️‍🔥I’m currently learning **AI engineering , ML...**
 
  📝I write about It & neuroscience on <a href="https://medium.com/@imane4abas" target="_blank">Medium</a>
  
@@ -39,7 +39,7 @@
 <h2 align="center">🪄 Languages-Frameworks-Tools 🪄</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=capcut,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=capcut,html,css,js,python,langchain,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,c" /><br>
 </div>
 
