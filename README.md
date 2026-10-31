@@ -63,7 +63,7 @@
   
   <p>Truly yours,<br>
   <strong>Albert Camus</strong><br>
-  <em>The Stranger</em></p>
+  
 </blockquote>
 
 
